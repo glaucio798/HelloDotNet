@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Glaucio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Glaucio\\.nuget\\packages"
+    ]
+  }
+}
